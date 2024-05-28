@@ -4,6 +4,6 @@
 using HTML, CSS and Javascript.</p>
 
 <p align="center">
-  <img src="https://github.com/nikitaa03/CountDown-Timer/blob/main/index.html" width="350" height="400">
+  <img src="https://github.com/nikitaa03/CountDown-Timer/blob/main/Screenshot%20(8).png" width="800" height="400">
 
 </p>
