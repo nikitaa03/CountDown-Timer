@@ -1,4 +1,4 @@
 # CountDown-Timer
 
-Count Down timer until year 2025.
-using HTML, CSS and Javascript.
+<p>Count Down timer until year 2025.<br/>
+using HTML, CSS and Javascript.</p>
